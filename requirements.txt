@@ -7,3 +7,4 @@ faiss-cpu
 requests
 scikit-learn
 reportlab
+python-docx
