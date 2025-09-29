@@ -48,8 +48,8 @@ def export_to_word(text: str) -> BytesIO:
 
 
 def main():
-    st.set_page_config(page_title="Literature Survey Assistant", page_icon="📚", layout="wide")
-    st.title("📚 AI-Powered Literature Survey Assistant")
+    st.set_page_config(page_title="Research Assistant", page_icon="📚", layout="wide")
+    st.title("📚 RAG Based Research Assistant")
     st.write("Fetch papers and generate a structured literature survey.")
 
     # Sidebar
